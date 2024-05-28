@@ -290,7 +290,7 @@ Script nano :
     cd /bettik/loughans/work_directory/merged_seq
     cd /bettik/loughans/work_directory/consensus_seq
 
-On verifie la taille d'une sequence:
+On verifie la taille d'une sequence: 
 
     samtools view /bettik/loughans/work_directory/consensus_seq |wc -m
     
