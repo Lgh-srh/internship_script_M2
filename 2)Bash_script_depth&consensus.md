@@ -26,7 +26,6 @@ Mosquitoe lines:
 - SRun
 - NS
 - Sel
-- Sel surv
 - Saint-Paul
 - Saint-Louis
 - Sainte-Suzanne
