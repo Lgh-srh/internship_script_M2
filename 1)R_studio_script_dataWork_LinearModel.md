@@ -22,8 +22,6 @@ Contact: sarah.loughani@univ-tlse3.fr
   - plots version2.0 : R2~pval & R2~minMaxDiff, & slope~minMaxDiff
   - Gene expression plots
 
-# Introduction
-Paramètrer les tableaux:
 ## Samples used
 For each mosquitoe line, a pool of 100 mosquitoe were sequenced with the DNBseq technology. Raw sequences (fastq.gz files) are available at XXXX.
 The genome version used is this paper is AALBF3.v2.
